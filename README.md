@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 <h1 align="center">Awesome Books</h1>
 
 ## About The Project
@@ -16,7 +17,7 @@
 
 ### Live Demo
 
-[Live Demo Link](https://ibrohimrasulov.github.io/AwesomeBooks-with-ES6/)
+[Live Demo Link]( https://vabuyia.github.io/AwesomeBooks-with-ES6/)
 
 ## Authors
 
