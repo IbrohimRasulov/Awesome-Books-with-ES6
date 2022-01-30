@@ -26,20 +26,22 @@
 - Twitter: [@IbrohimRasu1ov](https://twitter.com/IbrohimRasu1ov)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrohim-rasulov-a88352209/)
 
-## Getting Started
+## 🤝 Contributing
 
-* You will not need additional instructions on installing Prerequisites.
-* In case you have node_modules on your folder Add them to .gitignore file before you a push.
+Contributions, issues, and feature requests are welcome!
 
-### Prerequisites
+Feel free to check the issues page.
 
-* No prerequisites needed for this project.
+## Show your support
 
+Give a ⭐️ if you like this project!
 
-## Contributing
+## Acknowledgments
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
+## 📝 License
+
+Copyright 2021, Ibrohim Rasulov
