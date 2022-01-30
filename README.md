@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 <h1 align="center">Awesome Books</h1>
 
 ## About The Project
@@ -16,7 +17,7 @@
 
 ### Live Demo
 
-[Live Demo Link](https://ibrohimrasulov.github.io/AwesomeBooks-with-ES6/)
+[Live Demo Link]( https://vabuyia.github.io/AwesomeBooks-with-ES6/)
 
 ## Authors
 
@@ -28,13 +29,12 @@
 
 ## Getting Started
 
-* You will not need additional instructions on installing Prerequisites.
-* In case you have node_modules on your folder Add them to .gitignore file before you a push.
+- You will not need additional instructions on installing Prerequisites.
+- In case you have node_modules on your folder Add them to .gitignore file before you a push.
 
 ### Prerequisites
 
-* No prerequisites needed for this project.
-
+- No prerequisites needed for this project.
 
 ## Contributing
 
