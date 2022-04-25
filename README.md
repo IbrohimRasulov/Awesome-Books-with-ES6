@@ -21,11 +21,11 @@
 
 ## Authors
 
-👤 **Ibrohim Rasulov**
+👤 **Vincent Abuya**
 
-- GitHub: [@IbrohimRasulov](https://github.com/IbrohimRasulov)
-- Twitter: [@IbrohimRasu1ov](https://twitter.com/IbrohimRasu1ov)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrohim-rasulov-a88352209/)
+- GitHub: [@vabuyia](https://github.com/vabuyia)
+- Twitter: [@vabuyia](https://twitter.com/abuyag)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vincent /)
 
 ## 🤝 Contributing
 
